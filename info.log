@@ -8,3 +8,4 @@
 {"message":"Card with id 66e7d471-2c49-4099-bf1b-4e74dcfe80d3 created","level":"info"}
 {"message":"Card with given ID 1 has been deleted","level":"info"}
 {"message":"Card with given ID c59d2e8f-ff3c-437d-ad88-485e2ef531cc has been deleted","level":"info"}
+{"message":"Unauthorized request to path /bookmarks/","level":"error"}
